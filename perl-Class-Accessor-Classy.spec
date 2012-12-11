@@ -46,3 +46,14 @@ rm -rf %buildroot
 %perl_vendorlib/*
 
 
+
+
+%changelog
+* Sun Apr 17 2011 Funda Wang <fwang@mandriva.org> 0.9.1-2mdv2011.0
++ Revision: 654273
+- rebuild for updated spec-helper
+
+* Fri Dec 24 2010 Shlomi Fish <shlomif@mandriva.org> 0.9.1-1mdv2011.0
++ Revision: 624654
+- import perl-Class-Accessor-Classy
+
